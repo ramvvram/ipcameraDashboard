@@ -1,0 +1,61 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: #002c33;
+}
+
+.content-wrapper {
+    background: #02323a;
+}
+
+.sidebar {
+    background-color: #00202e;
+}
+
+.has-treeview {
+    background-color: #144357;
+}
+
+.nav-link :active {
+    background-color: #002c33;
+}
+
+.dash_ico {
+    height: 4em;
+    line-height: 60px;
+    text-align: center;
+}
+
+.brand-link {
+    background-color: #00202e;
+}
+
+.navbar-nav,
+.main-header,
+.navbar,
+.navbar-expand,
+.navbar-light.navbar-light {
+    background-color: #00202e;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    background-color: #0b3344;
+}
+
+.dash {
+    background-color: #00202e;
+}
+
+.inner,
+.pic_contsm {
+    padding: 10px;
+}
+
+.main-footer {
+    padding: 15px;
+    color: #fff;
+    border-top: 1px solid #dee2e6;
+    background: #024b5e;
+}
